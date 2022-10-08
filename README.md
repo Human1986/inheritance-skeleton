@@ -6,7 +6,7 @@ Estimated time - 90 minutes.
 
 ## Description
 
-Task #6 Inheritance
+Inheritance
 
 Create classes [Employee](src/main/java/com/epam/rd/qa/inheritance/Employee.java), 
 [SalesPerson](src/main/java/com/epam/rd/qa/inheritance/SalesPerson.java), 
